@@ -3,8 +3,4 @@ Hi I am new File Ali
 
 HI from shopistan...
 
-<<<<<<< HEAD
-git i can do it
-=======
-here is unicorn too
->>>>>>> f0f15947fa3cb53e7057db2875c96ca02487de7c
+I am again changing it
